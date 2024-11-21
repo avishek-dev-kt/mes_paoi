@@ -1,0 +1,21 @@
+{
+    "API_Key": "4f4e2fd646a36d8",
+    "API_Secret": "2ffc9a0f6a1756b",
+    "ERP_URL": "http://0.0.0.0:8001/api/resource/SMT%20Traceability",
+    "Machine_Data_Folder": "/home/kaynes/MES_Project/Machine_Data_Folder/AOI",
+    "LM_JSON_FOLDER": "/home/kaynes/Desktop/AOI/Z_LM_data/New",
+    "LM_BKP_JSON_FOLDER": "/home/kaynes/Desktop/AOI/Z_LM_data/Old",
+    "Folders": {
+        "JSON_Data_Folder": "/home/kaynes/Desktop/AOI/JSON_Data_Folder",
+        "Scan_Folder": "/home/kaynes/Desktop/AOI/Scan_Folder",
+        "Backup_Folder": "/home/kaynes/Desktop/AOI/Backup_Folder",
+        "Logs_Folder": "/home/kaynes/Desktop/AOI/Logs_Folder",
+        "Done_Folder": "/home/kaynes/Desktop/AOI/Done_Folder"
+    },
+    "Log_Folders": {
+        "Copy_Logs": "/home/kaynes/Desktop/AOI/Logs_Folder/Copy_Logs",
+        "Backup_Logs": "/home/kaynes/Desktop/AOI/Logs_Folder/Backup_Logs",
+        "Parser_Logs": "/home/kaynes/Desktop/AOI/Logs_Folder/Parser_Logs",
+        "Skipped_Logs": "/home/kaynes/Desktop/AOI/Logs_Folder/Skipped_Logs"
+    }
+}
